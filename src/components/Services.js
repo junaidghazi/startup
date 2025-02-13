@@ -26,7 +26,7 @@ const Services = () => {
                                 <img alt="card img" className="rounded-t group-hover:scale-[1.15] transition duration-1000 ease-in-out" src={img} />
                                     <h2 className="font-semibold my-4 text-2xl text-center">Web Development</h2>
                                     <p className="text-md font-medium">
-                                        We specialize in creating and optimizing high-quality, custom websites for businesses and organizations of all sizes. Building mobile-friendly and easy-to-use websites and applications for clients.
+                                        At Molad e Konsult, we design and develop high-quality, custom websites tailored to meet the unique needs of businesses. Our expert team creates visually stunning and highly functional websites, ensuring a seamless experience across all devices. Whether you're a startup or an established enterprise, we help elevate your brand and drive online success.
                                     </p>
                                 </div>
                             </div>

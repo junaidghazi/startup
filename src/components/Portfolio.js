@@ -44,7 +44,7 @@ const Portfolio = () => {
                                     </Link>
                                 </div>
                                 
-                                {/* <ul className="border-t border-gray-300 py-8 space-y-6">
+                                <ul className="border-t border-gray-300 py-8 space-y-6">
                                     <li className="flex items-center space-x-2 px-8">
                                         <span className="bg-blue-600 rounded-full p-1">
                                             <svg xmlns="http://www.w3.org/2000/svg" className="h-3 w-3 text-white" viewBox="0 0 20 20" fill="currentColor">
@@ -53,7 +53,7 @@ const Portfolio = () => {
                                         </span>
                                         <span className="text-gray-600 capitalize">Free Setup Guidance</span>
                                     </li>
-                                </ul> */}
+                                </ul>
                             </div>
                         </div>
 
