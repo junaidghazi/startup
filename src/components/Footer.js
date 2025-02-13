@@ -17,9 +17,9 @@ const Footer = () => {
                             <h3 className="font-bold text-4xl mb-4">MLD</h3>
                             <div className='text-md font-medium text-gray-600'>
                                 <h5>Molad e Konsult</h5>
-                                <p>Ilo Awela,</p>
-                                <p>Ota,</p>
-                                <p>Ogun State.</p>
+                                <p>C-13/7142, Mohan Rd, New Haiderganj,</p>
+                                <p>Rajajipuram, Lucknow,</p>
+                                <p>Uttar Pradesh 226017</p>
                             </div>
                         </div>
                     </div>
